@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @hanslemm
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning how to improve my ML algorithms
-- 💞️ I’m looking to collaborate on everything that is related to Data
+- 👀 I’m interested in data solutions
 - 📫 How to reach me hcrlemm@gmail.com
 
 <!---
