@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @hanslemm
+- 👋 Hi, I’m @hanslemm 
+- I'm a Data Engineer
 - 👀 I’m interested in data solutions
-- 📫 How to reach me hcrlemm@gmail.com
+- 📫 Reach me at hcrlemm@gmail.com
 
 <!---
 hanslemm/hanslemm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
