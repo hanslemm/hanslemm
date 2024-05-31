@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @hanslemm 
-- I'm a Data Engineer
-- 👀 I’m interested in data solutions
 - 📫 Reach me at hcrlemm@gmail.com
 
 <!---
